@@ -7,6 +7,9 @@ export default {
   router: {
     base: '/resume-website/'
   },
+  static: {
+    prefix: false
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
