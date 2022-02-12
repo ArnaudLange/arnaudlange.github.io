@@ -5,7 +5,7 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
   router: {
-    base: '/resume-website/'
+    base: 'https://arnaudlange.github.io/resume-website/resume-website/'
   },
   static: {
     prefix: false
