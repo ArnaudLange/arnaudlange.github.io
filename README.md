@@ -1,4 +1,4 @@
-# [https://arnaudlange.github.io/](https://arnaudlange.github.io/)
+# [https://arnaudlange.github.io/resume-website](https://arnaudlange.github.io/resume-website/)
 
 ## Build Setup
 
