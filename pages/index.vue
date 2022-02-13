@@ -12,7 +12,7 @@
     <div class="container">
 
       <div class="timeline-item" date-is='January 2019 - Now'>
-        <h1><img src="../static/peevee.png" height="30rem" /> Software Engineer @Peevee</h1>
+        <h1><img src="~/static/peevee.png" height="30rem" /> Software Engineer @Peevee</h1>
         <div class="wrapper-columns">
           <div class="left-column div1">
             <p>Joint-venture <b-link href="https://www.verteego.com" target="_blank">Verteego</b-link> x <b-link
@@ -37,7 +37,7 @@
       </div>
 
       <div class="timeline-item" date-is='May 2018 - September 2018'>
-        <h1><img src="../static/matlo.png" height="30rem" /> Front end developer intern @Matlo</h1>
+        <h1><img src="~/static/matlo.png" height="30rem" /> Front end developer intern @Matlo</h1>
         <div class="wrapper-columns">
           <div class="left-column div1">
             <p>Front end developer in a 10 people startup.</p>
@@ -53,7 +53,7 @@
 
       <div class="timeline-item" date-is='June 2017 - August 2017'>
         <h1>
-          <b-link href="https://www.hibox.co/" target="_blank"><img src="../static/hibox.png" height="30rem" /></b-link>
+          <b-link href="https://www.hibox.co/" target="_blank"><img src="~/static/hibox.png" height="30rem" /></b-link>
           Full stack developer intern @Hibox
         </h1>
         <div class="wrapper-columns">
@@ -72,7 +72,7 @@
 
       <div class="timeline-item" date-is='2013 - 2018'>
         <h1>
-          <b-link href="https://polytech.univ-nantes.fr/" target="_blank"><img src="../static/polytech.png"
+          <b-link href="https://polytech.univ-nantes.fr/" target="_blank"><img src="~/static/polytech.png"
               height="30rem" /></b-link>
           Bs and Ms @Polytech Nantes
         </h1>
